@@ -1,4 +1,4 @@
-# Angular 14 & React 18 Examples Routing
+# Angular 16 & React 18 Examples Routing
 
 <table>
 <tr>
@@ -10,10 +10,10 @@
 
 it's part of a repo series designed 
 
-to create a **Web Application with Angular 14**
+to create a **Web Application with Angular 16**
 
 
-* Featuring [**Angular 14.0.4**](https://github.com/angular/angular/releases) & [**Angular CLI 14.0.4**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 16.0.3**](https://github.com/angular/angular/releases) & [**Angular CLI 16.0.3**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
@@ -34,7 +34,7 @@ Here is a working live demo :  https://angular.ganatan.com
 <p align="center">
   <p align="center">
     <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 14 Example 
+      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 15 Example 
       Application"/>
     </a>
   </p>
